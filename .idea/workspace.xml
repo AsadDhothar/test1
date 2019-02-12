@@ -1,0 +1,1118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a7d7ba96-a6e3-41aa-bc5e-39a572f2579c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/app/code/Progos/Assignment/Block/Backend.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/code/Progos/Assignment/Block/Backend.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/code/Progos/Assignment/Block/Index.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/code/Progos/Assignment/Block/Index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/code/Progos/Assignment/Block/Link.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/code/Progos/Assignment/Block/Link.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/code/Progos/Assignment/Block/Order/Recent.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/code/Progos/Assignment/Block/Order/Recent.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/code/Progos/Assignment/Controller/Adminhtml/Post/Points.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/code/Progos/Assignment/Controller/Adminhtml/Post/Points.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/code/Progos/Assignment/Controller/Customer/Index.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/code/Progos/Assignment/Controller/Customer/Index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/code/Progos/Assignment/Helper/Datahelper.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/code/Progos/Assignment/Helper/Datahelper.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/code/Progos/Assignment/Observer/AfterPlaceOrder.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/code/Progos/Assignment/Observer/AfterPlaceOrder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/code/Progos/Assignment/Observer/OrderCancelAfter.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/code/Progos/Assignment/Observer/OrderCancelAfter.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/code/Progos/Assignment/Observer/OrderStatusUpdate.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/code/Progos/Assignment/Observer/OrderStatusUpdate.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/code/Progos/Assignment/Observer/SalesOrderCreditMemo.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/code/Progos/Assignment/Observer/SalesOrderCreditMemo.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/code/Progos/Assignment/Observer/SalesOrderShipmentAfter.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/code/Progos/Assignment/Observer/SalesOrderShipmentAfter.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/code/Progos/Assignment/Plugin/Checkout/CustomerData/Cart.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/code/Progos/Assignment/Plugin/Checkout/CustomerData/Cart.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/code/Progos/Assignment/Ui/Component/Listing/Column/Customer.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/code/Progos/Assignment/Ui/Component/Listing/Column/Customer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/code/Progos/Assignment/Ui/DataProvider/DataProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/code/Progos/Assignment/Ui/DataProvider/DataProvider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/code/Progos/Assignment/etc/adminhtml/menu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/code/Progos/Assignment/etc/adminhtml/menu.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/code/Progos/Assignment/etc/adminhtml/routes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/code/Progos/Assignment/etc/adminhtml/routes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/code/Progos/Assignment/etc/di.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/code/Progos/Assignment/etc/di.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/code/Progos/Assignment/etc/events.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/code/Progos/Assignment/etc/events.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/code/Progos/Assignment/etc/frontend/di.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/code/Progos/Assignment/etc/frontend/di.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/code/Progos/Assignment/etc/frontend/routes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/code/Progos/Assignment/etc/frontend/routes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/code/Progos/Assignment/etc/module.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/code/Progos/Assignment/etc/module.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/code/Progos/Assignment/registration.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/code/Progos/Assignment/registration.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/code/Progos/Assignment/view/adminhtml/layout/adminhtml_dashboard_index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/code/Progos/Assignment/view/adminhtml/layout/adminhtml_dashboard_index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/code/Progos/Assignment/view/adminhtml/layout/pointstable_post_points.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/code/Progos/Assignment/view/adminhtml/layout/pointstable_post_points.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/code/Progos/Assignment/view/adminhtml/templates/custom.phtml" beforeDir="false" afterPath="$PROJECT_DIR$/app/code/Progos/Assignment/view/adminhtml/templates/custom.phtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/code/Progos/Assignment/view/adminhtml/ui_component/customer_form.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/code/Progos/Assignment/view/adminhtml/ui_component/customer_form.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/code/Progos/Assignment/view/adminhtml/ui_component/customer_form_grid.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/code/Progos/Assignment/view/adminhtml/ui_component/customer_form_grid.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/code/Progos/Assignment/view/adminhtml/ui_component/progos_assignment_listing.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/code/Progos/Assignment/view/adminhtml/ui_component/progos_assignment_listing.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/code/Progos/Assignment/view/frontend/layout/assignment_customer_index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/code/Progos/Assignment/view/frontend/layout/assignment_customer_index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/code/Progos/Assignment/view/frontend/layout/catalog_category_view.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/code/Progos/Assignment/view/frontend/layout/catalog_category_view.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/code/Progos/Assignment/view/frontend/layout/catalog_product_view.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/code/Progos/Assignment/view/frontend/layout/catalog_product_view.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/code/Progos/Assignment/view/frontend/layout/checkout_cart_index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/code/Progos/Assignment/view/frontend/layout/checkout_cart_index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/code/Progos/Assignment/view/frontend/layout/checkout_cart_sidebar_total_renderers.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/code/Progos/Assignment/view/frontend/layout/checkout_cart_sidebar_total_renderers.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/code/Progos/Assignment/view/frontend/layout/customer_account.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/code/Progos/Assignment/view/frontend/layout/customer_account.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/code/Progos/Assignment/view/frontend/layout/customer_account_index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/code/Progos/Assignment/view/frontend/layout/customer_account_index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/code/Progos/Assignment/view/frontend/layout/default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/code/Progos/Assignment/view/frontend/layout/default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/code/Progos/Assignment/view/frontend/templates/cart/summarry.phtml" beforeDir="false" afterPath="$PROJECT_DIR$/app/code/Progos/Assignment/view/frontend/templates/cart/summarry.phtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/code/Progos/Assignment/view/frontend/templates/catalogproductview.phtml" beforeDir="false" afterPath="$PROJECT_DIR$/app/code/Progos/Assignment/view/frontend/templates/catalogproductview.phtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/code/Progos/Assignment/view/frontend/templates/header.phtml" beforeDir="false" afterPath="$PROJECT_DIR$/app/code/Progos/Assignment/view/frontend/templates/header.phtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/code/Progos/Assignment/view/frontend/templates/mycard.phtml" beforeDir="false" afterPath="$PROJECT_DIR$/app/code/Progos/Assignment/view/frontend/templates/mycard.phtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/code/Progos/Assignment/view/frontend/templates/order/recent.phtml" beforeDir="false" afterPath="$PROJECT_DIR$/app/code/Progos/Assignment/view/frontend/templates/order/recent.phtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/code/Progos/Assignment/view/frontend/templates/product/list.phtml" beforeDir="false" afterPath="$PROJECT_DIR$/app/code/Progos/Assignment/view/frontend/templates/product/list.phtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/code/Progos/Assignment/view/frontend/web/template/checkout/minicart/extra/data.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/code/Progos/Assignment/view/frontend/web/template/checkout/minicart/extra/data.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/code/Progos/Assignment/registration.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/code/Progos/Assignment/view/adminhtml/ui_component/customer_form.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/code/Progos/Assignment/view/adminhtml/ui_component/customer_form_grid.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" column="35" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/code/Progos/Assignment/view/adminhtml/ui_component/progos_assignment_listing.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="537">
+              <caret line="38" column="92" selection-start-line="38" selection-start-column="92" selection-end-line="38" selection-end-column="92" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>$record</find>
+      <find>$orderId</find>
+      <find>$data</find>
+      <find>pointsFactory</find>
+      <find>state</find>
+      <find>getPagerHtml</find>
+      <find>lo</find>
+      <find>handler</find>
+      <find>class</find>
+      <find>endif</find>
+      <find>$originaltotal</find>
+      <find>orderid</find>
+      <find>increment</find>
+      <find>grid.phtml</find>
+      <find>grid</find>
+      <find>Last Orders</find>
+      <find>dashboard</find>
+      <find>ph</find>
+      <find>phtml</find>
+      <find>dataHelper</find>
+      <find>isEnabled</find>
+      <find>mainHead</find>
+      <find>logger</find>
+      <find>sku</find>
+      <find>product.info.type</find>
+      <find>$points</find>
+      <find>price</find>
+      <find>category.products</find>
+      <find>total</find>
+      <find>cart.summary</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/vendor/magento/module-backend/view/adminhtml/templates/dashboard</dir>
+      <dir>$PROJECT_DIR$/vendor/magento/module-backend/view/adminhtml/layout</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/app/code/Progos/Assignment" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/vendor/magento/module-search/view/adminhtml/layout/adminhtml_dashboard_index.xml" />
+        <option value="$PROJECT_DIR$/app/code/Progos/Assignment/view/adminhtml/layout/adminhtml_dashboard_index.xml" />
+        <option value="$PROJECT_DIR$/app/code/Mageplaza/HelloWorld/Block/Grid.php" />
+        <option value="$PROJECT_DIR$/app/code/Progos/Assignment/Block/Index.php" />
+        <option value="$PROJECT_DIR$/app/code/Progos/Assignment/view/frontend/templates/mycard.phtml" />
+        <option value="$PROJECT_DIR$/app/code/Progos/Assignment/etc/events.xml" />
+        <option value="$PROJECT_DIR$/app/code/Progos/Assignment/Ui/Component/Listing/Column/Customer.php" />
+        <option value="$PROJECT_DIR$/app/code/Progos/Assignment/etc/module.xml" />
+        <option value="$PROJECT_DIR$/app/code/Check/abc/registration.php" />
+        <option value="$PROJECT_DIR$/app/code/Check/Abc/etc/module.xml" />
+        <option value="$PROJECT_DIR$/app/code/Check/Abc/frontend/routes.xml" />
+        <option value="$PROJECT_DIR$/app/code/Check/Abc/Controller/Frontend/hel.php" />
+        <option value="$PROJECT_DIR$/app/code/Assign/RestService/view/layout/sum_index_index.xml" />
+        <option value="$PROJECT_DIR$/app/code/Check/Abc/view/frontend/templete/checkabc.phtml" />
+        <option value="$PROJECT_DIR$/app/code/Check/Abc/view/frontend/layout/check_frontend_hel.xml" />
+        <option value="$PROJECT_DIR$/app/code/Check/Abc/Controller/Frontend/Hel.php" />
+        <option value="$PROJECT_DIR$/app/code/Check/Abc/view/frontend/templates/checkabc.phtml" />
+        <option value="$PROJECT_DIR$/app/code/Progos/Assignment/Setup/InstallSchema.php" />
+        <option value="$PROJECT_DIR$/app/code/Progos/Assignment/Magento_Catalog/templates/product/view/demo.phtml" />
+        <option value="$PROJECT_DIR$/app/code/Progos/Assignment/view/frontend/layout/override/base/catalog_product_view.xml" />
+        <option value="$PROJECT_DIR$/app/code/Progos/Assignment/Block/ProductDetail.php" />
+        <option value="$PROJECT_DIR$/app/code/Progos/Assignment/Observer/OrderCancelAfter.php" />
+        <option value="$PROJECT_DIR$/app/code/Progos/Assignment/Observer/OrderStatusUpdate.php" />
+        <option value="$PROJECT_DIR$/app/code/Progos/Assignment/Observer/SalesOrderCreditMemo.php" />
+        <option value="$PROJECT_DIR$/app/code/Progos/Assignment/Observer/SalesOrderShipmentAfter.php" />
+        <option value="$PROJECT_DIR$/app/code/Progos/Assignment/Observer/AfterPlaceOrder.php" />
+        <option value="$PROJECT_DIR$/app/code/Progos/Assignment/view/frontend/templates/product/demo.phtml" />
+        <option value="$PROJECT_DIR$/app/code/Progos/Assignment/view/frontend/templates/product/list.phtml" />
+        <option value="$PROJECT_DIR$/app/code/Progos/Assignment/view/frontend/layout/catalog_category_view.xml" />
+        <option value="$PROJECT_DIR$/app/code/Progos/Assignment/view/frontend/templates/checkout/minicart/extra.html" />
+        <option value="$PROJECT_DIR$/app/code/Progos/Assignment/view/frontend/templates/checkout/minicart/extra/data.html" />
+        <option value="$PROJECT_DIR$/app/code/Progos/Assignment/view/frontend/templates/web/template/checkout/minicart/extra.html" />
+        <option value="$PROJECT_DIR$/app/code/Progos/Assignment/view/frontend/web/template/checkout/minicart/extra.html" />
+        <option value="$PROJECT_DIR$/app/code/Progos/Assignment/view/frontend/layout/checkout_cart_sidebar_total_renderers.xml" />
+        <option value="$PROJECT_DIR$/app/code/Progos/Assignment/Plugin/Checkout/CustomerData/Cart.php" />
+        <option value="$PROJECT_DIR$/app/code/Progos/Assignment/etc/frontend/di.xml" />
+        <option value="$PROJECT_DIR$/app/code/Progos/Assignment/view/frontend/web/template/checkout/minicart/extra/data.html" />
+        <option value="$PROJECT_DIR$/vendor/magento/module-checkout/view/frontend/web/template/summary/item/details.html" />
+        <option value="$PROJECT_DIR$/app/code/Progos/Assignment/Block/Cart/Summary.php" />
+        <option value="$PROJECT_DIR$/app/code/Progos/Assignment/view/frontend/layout/catalog_product_view.xml" />
+        <option value="$PROJECT_DIR$/app/code/Progos/Assignment/Helper/Datahelper.php" />
+        <option value="$PROJECT_DIR$/vendor/magento/module-checkout/view/frontend/web/js/view/summary/subtotal.js" />
+        <option value="$PROJECT_DIR$/vendor/magento/module-checkout/view/frontend/web/js/model/quote.js" />
+        <option value="$PROJECT_DIR$/vendor/magento/module-checkout/view/frontend/web/js/view/summary/abstract-total.js" />
+        <option value="$PROJECT_DIR$/vendor/magento/module-checkout/Block/Cart/Totals.php" />
+        <option value="$PROJECT_DIR$/vendor/magento/module-checkout/Model/Session.php" />
+        <option value="$PROJECT_DIR$/vendor/magento/module-checkout/view/frontend/templates/cart/totals.phtml" />
+        <option value="$PROJECT_DIR$/app/code/Progos/Assignment/view/frontend/layout/checkout_cart_index.xml" />
+        <option value="$PROJECT_DIR$/app/code/Progos/Assignment/view/frontend/templates/cart/summarry.phtml" />
+        <option value="$PROJECT_DIR$/app/code/Progos/Assignment/Block/Backend.php" />
+        <option value="$PROJECT_DIR$/app/code/Progos/Assignment/Block/Link.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/magento/module-swagger" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-product-alert" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-dhl" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-configurable-product" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-require-js" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-integration" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-swatches" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-url-rewrite" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-vault" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-developer" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-weee" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-customer-analytics" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-reports" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-instant-purchase" />
+      <path value="$PROJECT_DIR$/vendor/magento/language-nl_nl" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-store" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-checkout-agreements" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-downloadable" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-customer-import-export" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-sitemap" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-advanced-pricing-import-export" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-rule" />
+      <path value="$PROJECT_DIR$/vendor/magento/language-de_de" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-new-relic-reporting" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-multishipping" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-cookie" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-catalog-url-rewrite" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-sales-inventory" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-encryption-key" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-authorizenet" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-bundle" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-configurable-import-export" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-google-adwords" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-webapi-security" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-google-analytics" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-catalog-search" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-contact" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-sample-data" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-import-export" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-bundle-import-export" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-version" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-catalog-rule-configurable" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-sales-sequence" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-layered-navigation" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-gift-message" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-email" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-offline-payments" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-catalog-import-export" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-sales-analytics" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-backup" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-paypal" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-config" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-swatches-layered-navigation" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-review" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-usps" />
+      <path value="$PROJECT_DIR$/vendor/magento/zendframework1" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-tax-import-export" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-grouped-import-export" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-media-storage" />
+      <path value="$PROJECT_DIR$/vendor/magento/theme-adminhtml-backend" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-sales-rule" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-http" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-tax" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-soap" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-hydrator" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-math" />
+      <path value="$PROJECT_DIR$/vendor/ircmaxell/password-compat" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-inputfilter" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-modulemanager" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-console" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-escaper" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-eventmanager" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-diactoros" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-loader" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-servicemanager" />
+      <path value="$PROJECT_DIR$/vendor/amzn/login-with-amazon-module" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-mvc" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-form" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-server" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-crypt" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-config" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-json" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-log" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-db" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-serializer" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-text" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-filter" />
+      <path value="$PROJECT_DIR$/vendor/pelago/emogrifier" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-uri" />
+      <path value="$PROJECT_DIR$/vendor/theseer/fdomdocument" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-code" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-stdlib" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-session" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-validator" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-i18n" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-psr7bridge" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-captcha" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-di" />
+      <path value="$PROJECT_DIR$/vendor/phpseclib/phpseclib" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/amzn/amazon-pay-module" />
+      <path value="$PROJECT_DIR$/vendor/amzn/amazon-pay-and-login-with-amazon-core-module" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/amzn/amazon-pay-sdk-php" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit-mock-objects" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-msrp" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/braintree/braintree_php" />
+      <path value="$PROJECT_DIR$/vendor/magento/theme-frontend-blank" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-theme" />
+      <path value="$PROJECT_DIR$/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/vendor/symfony/options-resolver" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php54" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php55" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-search" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/symfony/stopwatch" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-captcha" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/finder-facade" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-catalog" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/seld/cli-prompt" />
+      <path value="$PROJECT_DIR$/vendor/seld/phar-utils" />
+      <path value="$PROJECT_DIR$/vendor/seld/jsonlint" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-checkout" />
+      <path value="$PROJECT_DIR$/vendor/tedivm/jshrink" />
+      <path value="$PROJECT_DIR$/vendor/vertex/module-tax" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-customer" />
+      <path value="$PROJECT_DIR$/vendor/colinmollenhour/php-redis-session-abstract" />
+      <path value="$PROJECT_DIR$/vendor/colinmollenhour/cache-backend-redis" />
+      <path value="$PROJECT_DIR$/vendor/colinmollenhour/credis" />
+      <path value="$PROJECT_DIR$/vendor/colinmollenhour/cache-backend-file" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-wishlist" />
+      <path value="$PROJECT_DIR$/vendor/phpmd/phpmd" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-page-cache" />
+      <path value="$PROJECT_DIR$/vendor/oyejorge/less.php" />
+      <path value="$PROJECT_DIR$/vendor/squizlabs/php_codesniffer" />
+      <path value="$PROJECT_DIR$/vendor/tubalmartin/cssmin" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/phpcpd" />
+      <path value="$PROJECT_DIR$/vendor/pdepend/pdepend" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/friendsofphp/php-cs-fixer" />
+      <path value="$PROJECT_DIR$/vendor/justinrainbow/json-schema" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-view" />
+      <path value="$PROJECT_DIR$/vendor/lusitanian/oauth" />
+      <path value="$PROJECT_DIR$/vendor/container-interop/container-interop" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/klarna/module-core" />
+      <path value="$PROJECT_DIR$/vendor/klarna/module-ordermanagement" />
+      <path value="$PROJECT_DIR$/vendor/klarna/module-kp" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/dotmailer/dotmailer-magento2-extension" />
+      <path value="$PROJECT_DIR$/vendor/magento/theme-frontend-luma" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-ui" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-quote" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-currency-symbol" />
+      <path value="$PROJECT_DIR$/vendor/magento/language-pt_br" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-indexer" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-marketplace" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-translation" />
+      <path value="$PROJECT_DIR$/vendor/magento/language-es_es" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-deploy" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-widget" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-google-optimizer" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-release-notification" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-catalog-inventory" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-swagger-webapi" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-authorization" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-admin-notification" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-catalog-rule" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-backend" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-directory" />
+      <path value="$PROJECT_DIR$/vendor/magento/language-en_us" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-send-friend" />
+      <path value="$PROJECT_DIR$/vendor/magento/magento-composer-installer" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-shipping" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-configurable-product-sales" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-ups" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-variable" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-cron" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-offline-shipping" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/magento/magento2-base" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-newsletter" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-persistent" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-catalog-widget" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-quote-analytics" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-grouped-product" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-rss" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-downloadable-import-export" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-cache-invalidate" />
+      <path value="$PROJECT_DIR$/vendor/magento/composer" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-eav" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-signifyd" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-review-analytics" />
+      <path value="$PROJECT_DIR$/vendor/temando/module-shipping-m2" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-payment" />
+      <path value="$PROJECT_DIR$/vendor/magento/framework" />
+      <path value="$PROJECT_DIR$/vendor/magento/language-fr_fr" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-cms-url-rewrite" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-webapi" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-fedex" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-cms" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-robots" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-catalog-analytics" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-user" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-security" />
+      <path value="$PROJECT_DIR$/vendor/magento/language-zh_hans_cn" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-analytics" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-wishlist-analytics" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-braintree" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-sales" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-product-video" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-sales-rule-sample-data" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-bundle-sample-data" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-widget-sample-data" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-theme-sample-data" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-tax-sample-data" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-review-sample-data" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-wishlist-sample-data" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-product-links-sample-data" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-catalog-sample-data" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-catalog-rule-sample-data" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-sales-sample-data" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-customer-sample-data" />
+      <path value="$PROJECT_DIR$/vendor/magento/sample-data-media" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-offline-shipping-sample-data" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-grouped-product-sample-data" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-configurable-sample-data" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-downloadable-sample-data" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-cms-sample-data" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-msrp-sample-data" />
+      <path value="$PROJECT_DIR$/vendor/magento/module-swatches-sample-data" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="586" />
+    <option name="y" value="-4" />
+    <option name="width" value="765" />
+    <option name="height" value="680" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="public_html" type="b2602c69:ProjectViewProjectNode" />
+              <item name="public_html" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="public_html" type="b2602c69:ProjectViewProjectNode" />
+              <item name="public_html" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="public_html" type="b2602c69:ProjectViewProjectNode" />
+              <item name="public_html" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="public_html" type="b2602c69:ProjectViewProjectNode" />
+              <item name="public_html" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="Progos" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="public_html" type="b2602c69:ProjectViewProjectNode" />
+              <item name="public_html" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="Progos" type="462c0819:PsiDirectoryNode" />
+              <item name="Assignment" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="public_html" type="b2602c69:ProjectViewProjectNode" />
+              <item name="public_html" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="Progos" type="462c0819:PsiDirectoryNode" />
+              <item name="Assignment" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="public_html" type="b2602c69:ProjectViewProjectNode" />
+              <item name="public_html" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="Progos" type="462c0819:PsiDirectoryNode" />
+              <item name="Assignment" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+              <item name="adminhtml" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="public_html" type="b2602c69:ProjectViewProjectNode" />
+              <item name="public_html" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="Progos" type="462c0819:PsiDirectoryNode" />
+              <item name="Assignment" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+              <item name="adminhtml" type="462c0819:PsiDirectoryNode" />
+              <item name="ui_component" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/code/Progos/Assignment/view/frontend" />
+      <recent name="$PROJECT_DIR$/app/code/Progos/Assignment/view/frontend/templates" />
+      <recent name="$PROJECT_DIR$/app/code/Progos/Assignment/view/frontend/layout" />
+      <recent name="$PROJECT_DIR$/app/code/Progos/Assignment/view/frontend/templates/product" />
+      <recent name="$PROJECT_DIR$/app/code/Check/Abc/etc" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/code" />
+      <recent name="$PROJECT_DIR$/app/code/Custom/Module/Controller/Index" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a7d7ba96-a6e3-41aa-bc5e-39a572f2579c" name="Default Changelist" comment="" />
+      <created>1541097723282</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541097723282</updated>
+      <workItem from="1541097724865" duration="432000" />
+      <workItem from="1541098703800" duration="209000" />
+      <workItem from="1541108364521" duration="622000" />
+      <workItem from="1541109105560" duration="6250000" />
+      <workItem from="1541177095230" duration="3297000" />
+      <workItem from="1541330515825" duration="5514000" />
+      <workItem from="1541434255863" duration="21693000" />
+      <workItem from="1541521980217" duration="1010000" />
+      <workItem from="1541523367438" duration="5016000" />
+      <workItem from="1541543725556" duration="24000" />
+      <workItem from="1541543751788" duration="55395000" />
+      <workItem from="1541780781120" duration="13468000" />
+      <workItem from="1542039814498" duration="1193000" />
+      <workItem from="1542219294672" duration="17571000" />
+      <workItem from="1542299485164" duration="597000" />
+      <workItem from="1542308242846" duration="25615000" />
+      <workItem from="1542644347053" duration="20041000" />
+      <workItem from="1542728768169" duration="26169000" />
+      <workItem from="1542903562983" duration="5614000" />
+      <workItem from="1542910578337" duration="355000" />
+      <workItem from="1542911195556" duration="16753000" />
+      <workItem from="1542990135073" duration="4328000" />
+      <workItem from="1543259398728" duration="3847000" />
+      <workItem from="1543336028661" duration="2314000" />
+      <workItem from="1543422420757" duration="14223000" />
+      <workItem from="1543510847105" duration="21420000" />
+      <workItem from="1543595391641" duration="17567000" />
+      <workItem from="1543853797601" duration="2095000" />
+      <workItem from="1543943161536" duration="11010000" />
+      <workItem from="1543964318984" duration="4929000" />
+      <workItem from="1544028960660" duration="17379000" />
+      <workItem from="1544113103517" duration="25396000" />
+      <workItem from="1544199555070" duration="305000" />
+      <workItem from="1544200393968" duration="17312000" />
+      <workItem from="1544459121326" duration="23043000" />
+      <workItem from="1544547324178" duration="22787000" />
+      <workItem from="1544632044136" duration="22122000" />
+      <workItem from="1544718556360" duration="20737000" />
+      <workItem from="1544804828778" duration="24025000" />
+      <workItem from="1545064086070" duration="20026000" />
+      <workItem from="1545149606388" duration="18134000" />
+      <workItem from="1545237546369" duration="16550000" />
+      <workItem from="1545325075068" duration="16520000" />
+      <workItem from="1545410378023" duration="15852000" />
+      <workItem from="1545669115952" duration="10304000" />
+      <workItem from="1545754723766" duration="10660000" />
+      <workItem from="1545925937325" duration="10601000" />
+      <workItem from="1546369600441" duration="20541000" />
+      <workItem from="1546447296927" duration="19838000" />
+      <workItem from="1546532809405" duration="20478000" />
+      <workItem from="1546620201675" duration="22951000" />
+      <workItem from="1546879922988" duration="20761000" />
+      <workItem from="1546966858712" duration="22380000" />
+      <workItem from="1547051275231" duration="13627000" />
+      <workItem from="1547076165706" duration="5430000" />
+      <workItem from="1547137164997" duration="17837000" />
+      <workItem from="1547224820306" duration="23109000" />
+      <workItem from="1547484080278" duration="15522000" />
+      <workItem from="1547570331908" duration="11388000" />
+      <workItem from="1547656917271" duration="3089000" />
+      <workItem from="1547661233860" duration="18304000" />
+      <workItem from="1547742723335" duration="5853000" />
+      <workItem from="1547749293232" duration="18327000" />
+      <workItem from="1547787427688" duration="15163000" />
+      <workItem from="1548088026710" duration="7125000" />
+      <workItem from="1548174560730" duration="598000" />
+      <workItem from="1548218815055" duration="10963000" />
+      <workItem from="1548349126017" duration="5484000" />
+      <workItem from="1548377464207" duration="521000" />
+      <workItem from="1548693677049" duration="10863000" />
+      <workItem from="1548778500700" duration="12486000" />
+      <workItem from="1548791859766" duration="6499000" />
+      <workItem from="1548872478629" duration="9279000" />
+      <workItem from="1548951041491" duration="19904000" />
+      <workItem from="1549038771721" duration="9039000" />
+      <workItem from="1549268025323" duration="20560000" />
+      <workItem from="1549353942037" duration="4352000" />
+      <workItem from="1549441910795" duration="13751000" />
+      <workItem from="1549529088665" duration="3218000" />
+      <workItem from="1549618359606" duration="1231000" />
+      <workItem from="1549873369608" duration="2326000" />
+      <workItem from="1549965398865" duration="1198000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1014319000" />
+  </component>
+  <component name="TodoView" selected-index="1">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="46" y="-11" width="1321" height="780" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.21681069" />
+      <window_info anchor="bottom" id="Command Line Tools Console" order="0" weight="0.32903227" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.3279743" />
+      <window_info anchor="bottom" id="Run" order="3" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.32903227" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32903227" />
+      <window_info anchor="bottom" id="TODO" order="11" weight="0.32903227" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.32419354" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24980362" />
+      <window_info anchor="right" id="Database" order="3" weight="0.3299293" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LIMIT_HISTORY" value="false" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/app/code/Progos" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/app/code/Assign/RestService/Model/HamburgerRepository.php</url>
+          <line>53</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-checkout/view/frontend/web/template/summary/item/details.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="19" column="14" lean-forward="true" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/Mageplaza/HelloWorld/Block/Grid.php" />
+    <entry file="file://$PROJECT_DIR$/app/code/Progos/Assignment/Block/Cart/Summary.php" />
+    <entry file="file://$PROJECT_DIR$/app/code/Progos/Assignment/view/frontend/web/template/checkout/minicart/extra/data.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/Progos/Assignment/Observer/SalesOrderCreditMemo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="40" column="44" selection-start-line="40" selection-start-column="44" selection-end-line="40" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/Progos/Assignment/etc/di.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/Progos/Assignment/view/frontend/layout/checkout_cart_sidebar_total_renderers.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/magento2-base/dev/tests/integration/testsuite/Magento/Cms/_files/block.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="97" lean-forward="true" selection-start-line="7" selection-start-column="97" selection-end-line="7" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-cms/Model/Block.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2610">
+          <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-paypal/Block/Express/Review/Details.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="40" column="20" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generated/code/Magento/Checkout/Block/Cart/Sidebar/Interceptor.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="214" column="20" selection-start-line="214" selection-start-column="20" selection-end-line="214" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/Progos/Assignment/view/frontend/templates/catalogproductview.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="11" lean-forward="true" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/Progos/Assignment/view/frontend/layout/catalog_product_view.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/Progos/Assignment/view/frontend/layout/assignment_customer_index.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="105" lean-forward="true" selection-start-line="10" selection-start-column="105" selection-end-line="10" selection-end-column="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/Progos/Assignment/view/frontend/layout/customer_account.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/Progos/Assignment/view/frontend/layout/customer_account_index.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/Progos/Assignment/view/frontend/layout/default.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/Progos/Assignment/view/frontend/layout/catalog_category_view.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/Progos/Assignment/view/frontend/templates/mycard.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/Progos/Assignment/Observer/AfterPlaceOrder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="48" column="45" selection-start-line="48" selection-start-column="34" selection-end-line="48" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-checkout/Block/Cart/AbstractCart.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="140" column="20" selection-start-line="140" selection-start-column="20" selection-end-line="140" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/framework/View/Element/AbstractBlock.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="209" selection-start-line="209" selection-end-line="209" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-catalog/view/base/templates/product/price/amount/default.phtml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generated/code/Magento/Checkout/Block/Cart/Crosssell/Interceptor.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-checkout/view/frontend/web/template/summary/subtotal.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-ui/DataProvider/AbstractDataProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2160">
+          <caret line="148" column="51" selection-start-line="148" selection-start-column="51" selection-end-line="148" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/Progos/Assignment/Observer/OrderCancelAfter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="42" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/Progos/Assignment/etc/events.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="113" lean-forward="true" selection-start-line="3" selection-start-column="113" selection-end-line="3" selection-end-column="113" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/Progos/Assignment/Ui/Component/Listing/Column/Customer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-270" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-catalog/view/frontend/web/js/gallery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-checkout/view/frontend/web/js/view/summary/subtotal.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-checkout/view/frontend/web/js/view/summary/abstract-total.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="26" column="11" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-checkout/view/frontend/web/js/model/quote.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="87" selection-start-line="87" selection-end-line="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-checkout/Model/Session.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="337" column="74" selection-start-line="337" selection-start-column="69" selection-end-line="337" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-checkout/view/frontend/layout/checkout_cart_index.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="150" column="137" selection-start-line="150" selection-start-column="137" selection-end-line="150" selection-end-column="137" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-checkout/view/frontend/web/template/cart/totals/subtotal.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-checkout/view/frontend/templates/cart/totals.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+          <folding>
+            <element signature="e#6#103#0#PHP" expanded="true" />
+            <element signature="e#113#204#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-checkout/Block/Cart/Totals.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="52" column="34" selection-start-line="52" selection-start-column="34" selection-end-line="52" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/Progos/Assignment/view/frontend/layout/checkout_cart_index.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="88" selection-start-line="6" selection-start-column="88" selection-end-line="6" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/Progos/Assignment/view/frontend/templates/cart/summarry.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="57" lean-forward="true" selection-start-line="4" selection-start-column="57" selection-end-line="4" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/Progos/Assignment/Block/Order/Recent.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-140" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/Progos/Assignment/Block/Backend.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="43" lean-forward="true" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/Progos/Assignment/Block/Index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="33" column="30" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/Progos/Assignment/Ui/DataProvider/DataProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="62" selection-start-line="5" selection-start-column="62" selection-end-line="5" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/Progos/Assignment/Helper/Datahelper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="47" column="2" lean-forward="true" selection-start-line="47" selection-start-column="2" selection-end-line="47" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/Progos/Assignment/view/frontend/templates/header.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/Progos/Assignment/Block/Link.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/Progos/Assignment/registration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/Progos/Assignment/view/adminhtml/ui_component/customer_form.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/Progos/Assignment/view/adminhtml/ui_component/customer_form_grid.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="35" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/Progos/Assignment/view/adminhtml/ui_component/progos_assignment_listing.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="537">
+          <caret line="38" column="92" selection-start-line="38" selection-start-column="92" selection-end-line="38" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
